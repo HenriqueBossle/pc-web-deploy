@@ -1,3 +1,6 @@
+!!!!!!LARAVEL!!!!!!
+PHPHPHPHPHPHPHP
+
 # pc-web-deploy
 
 ## App in laravel 
@@ -59,7 +62,7 @@ sudo nano app.conf
 
 ```
 <VirtualHost *:80>
-    ServerName [ip-da-sua-vm]
+    ServerName 107.20.116.121
     DocumentRoot /var/www/html/public
 
     <Directory /var/www/html/public>
