@@ -2,7 +2,7 @@
 PHPHPHPHPHPHPHP
 Teste sexta feira 13
 testando laravel
-
+phphphphphphphphphp
 edit testeeeee
 
 test3eeeeeeeeee
@@ -68,7 +68,7 @@ sudo nano app.conf
 
 ```
 <VirtualHost *:80>
-    ServerName 54.173.239.98
+    ServerName 54.197.33.156
     DocumentRoot /var/www/html/public
 
     <Directory /var/www/html/public>
